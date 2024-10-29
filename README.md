@@ -1,4 +1,7 @@
 # VLSI-1
+
+#ALU
+
 module ALU (A,B,aluout,carryout,alusel);  
 input [7:0]A,B;  
 input [3:0]alusel;  
